@@ -1,4 +1,7 @@
 # GloNet
 Code for papers on GloNet Neural Networks
 
-Paper id by...
+Paper 1.
+Images.
+
+Paper 2. Work in progress
