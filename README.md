@@ -7,8 +7,10 @@
 </p>
 
 ## What is GloNet?
-Paper [https://arxiv.org/abs/2311.15947](https://arxiv.org/abs/2311.15947) 
-GloNets introduces a novel neural network architecture that surpasses depth-related limitations of existing deep learning structures. Differing from architectures like ResNet, GloNets ensure stable training and uniform information distribution across all network layers. This allows for superimposing GloNets on any model to enhance depth without increasing complexity or reducing performance.
+[https://arxiv.org/abs/2311.15947](https://arxiv.org/abs/2311.15947) 
+
+GloNets introduces a novel neural network architecture that surpasses depth-related limitations of existing deep learning structures. Unlike architectures such as ResNet, GloNets ensure stable training and uniform information distribution across all network layers. A key feature of GloNets is the use of continuous early exits at every layer, creating a network that can be progressively turned on or off. This flexibility allows for balancing the system's energy requirements. Additionally, as the output is an overlay of networks or elementary basis functions, it lends itself to a new degree of model explainability.
+
   
 ## Repository Contents
 `\Code\PyTorch`: Implementation of GloNet in various configurations:
