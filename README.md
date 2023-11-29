@@ -2,10 +2,9 @@
 # GloNets: Globally Connected Neural Networks
 
 <p float="left">
-  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-fc.jpg" width="50%" />
-  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/Glonet-tunable.png" width="50%" /> 
+  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-fc.jpg" width="48%" />
+  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/Glonet-tunable.png" width="48%" /> 
 </p>
-
 
 ## Abstract
 GloNets introduces a novel neural network architecture that surpasses depth-related limitations of existing deep learning structures. Differing from architectures like ResNet, GloNets ensure stable training and uniform information distribution across all network layers. This allows for superimposing GloNets on any model to enhance depth without increasing complexity or reducing performance.
