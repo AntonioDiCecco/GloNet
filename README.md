@@ -2,8 +2,8 @@
 # GloNets: Globally Connected Neural Networks
 
 <p float="left">
-  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-fc.jpg" width="50%" />
-  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-tunable.png" width="50%" /> 
+  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-fc.jpg" width="48%" />
+  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-tunable.png" width="48%" /> 
 </p>
 
 ## Abstract
