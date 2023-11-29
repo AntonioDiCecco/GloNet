@@ -18,20 +18,23 @@ GloNets introduces a novel neural network architecture that surpasses depth-rela
 `\Images`: Contains images demonstrating GloNet's architecture and its post-learning tunable precision.
 
 ## GloNet Speed
+
+GloNet, while maintaining comparable performance levels, operates significantly faster than ResNetv2. This is primarily because GloNet does not require Batch Normalization, resulting in enhanced processing speed.
 <div style="text-align: center;">
 <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-speed.jpg" width="50%" height="50%">
 </div>
-GloNet, while maintaining comparable performance levels, operates significantly faster than ResNetv2. This is primarily because GloNet does not require Batch Normalization, resulting in enhanced processing speed.
 
 
-```
+
 ## Citation
 If you use this work in your research, please cite:
+```
 Di Cecco, A., Metta, C., Fantozzi, M., Morandin, F., Parton, M. (2023). GloNets: Globally Connected Neural Networks. arXiv preprint arXiv:2311.15947.
 [Link to the preprint](https://arxiv.org/abs/2311.15947)
+```
 
 Presented at the [IDA 2024 Conference](https://ida2024.blogs.dsv.su.se).
-```
+
 
 ## License
 This project is licensed under the MIT License.
