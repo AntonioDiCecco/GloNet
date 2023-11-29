@@ -3,7 +3,7 @@
 
 <p float="left">
   <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-fc.jpg" width="50%" />
-  <img src="[Images/](https://github.com/AntonioDiCecco/GloNet/blob/main/)Glonet-tunable.png" width="50%" /> 
+  <img src="https://github.com/AntonioDiCecco/GloNet/blob/main/Glonet-tunable.png" width="50%" /> 
 </p>
 
 
