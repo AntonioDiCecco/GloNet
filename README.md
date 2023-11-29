@@ -36,7 +36,7 @@ Di Cecco, A., Metta, C., Fantozzi, M., Morandin, F., Parton, M. (2023). GloNets:
 [Link to the preprint](https://arxiv.org/abs/2311.15947)
 ```
 
-Presented at the [IDA 2024 Conference](https://ida2024.blogs.dsv.su.se).
+Submitted to the [IDA 2024 Conference](https://ida2024.blogs.dsv.su.se).
 
 
 ## License
