@@ -8,7 +8,7 @@
 
 ## Abstract
 GloNets introduces a novel neural network architecture that surpasses depth-related limitations of existing deep learning structures. Differing from architectures like ResNet, GloNets ensure stable training and uniform information distribution across all network layers. This allows for superimposing GloNets on any model to enhance depth without increasing complexity or reducing performance.
-
+  
 ## Repository Contents
 `\Code\PyTorch`: Implementation of GloNet in various configurations:
 - `GloNet+fc`: GloNet applied to fully connected networks.
@@ -30,10 +30,11 @@ Presented at the [IDA 2024 Conference](https://ida2024.blogs.dsv.su.se).
 ```
 
 ## License
-Information about the license used for the code and repository contents.
+This project is licensed under the MIT License.
 
 ## Contact
-Details for further information or collaboration opportunities.
+For further information or collaboration opportunities, please contact: ant.dicecco@gmail.com
+
 
 ## Acknowledgments
 Acknowledgments to those who, with their work, inspired this project, e.g. Yoshua Bengio and Simone Scardapane.
