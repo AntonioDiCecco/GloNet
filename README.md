@@ -18,7 +18,7 @@ GloNets introduces a novel neural network architecture that surpasses depth-rela
 `\Images`: Contains images demonstrating GloNet's architecture and its post-learning tunable precision.
 
 ## GloNet Speed
-![GloNet-speed.jpg](https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-speed.jpg)
+<img src="[path/to/your/image.jpg](https://github.com/AntonioDiCecco/GloNet/blob/main/Images/GloNet-speed.jpg)" width="50%" height="50%">
 GloNet, while maintaining comparable performance levels, operates significantly faster than ResNetv2. This is primarily because GloNet does not require Batch Normalization, resulting in enhanced processing speed.
 
 
